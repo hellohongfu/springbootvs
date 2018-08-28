@@ -22,6 +22,7 @@ public class Application {
             System.out.println("Let's inspect the beans provided by Spring Boot:");
 
             //edit in pk
+            //addfsdf 
             
             String[] beanNames = ctx.getBeanDefinitionNames();
             Arrays.sort(beanNames);
